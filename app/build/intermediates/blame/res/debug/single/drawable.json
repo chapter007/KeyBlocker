@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Apk_Source\\KeyBlocker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_notification.png",
+        "source": "D:\\Apk_Source\\KeyBlocker\\app\\src\\main\\res\\drawable\\ic_notification.png"
+    },
+    {
+        "merged": "D:\\Apk_Source\\KeyBlocker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_appwidget_on.png",
+        "source": "D:\\Apk_Source\\KeyBlocker\\app\\src\\main\\res\\drawable\\ic_appwidget_on.png"
+    },
+    {
+        "merged": "D:\\Apk_Source\\KeyBlocker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_appwidget_off.png",
+        "source": "D:\\Apk_Source\\KeyBlocker\\app\\src\\main\\res\\drawable\\ic_appwidget_off.png"
+    }
+]

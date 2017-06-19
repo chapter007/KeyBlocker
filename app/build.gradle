@@ -27,3 +27,8 @@ android {
         abortOnError false
     }
 }
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile 'org.cyanogenmod:platform.sdk:4.+'
+}

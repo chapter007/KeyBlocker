@@ -1,0 +1,7 @@
+#Mon Jun 19 10:48:44 CST 2017
+base.0=D\:\\Apk_Source\\KeyBlocker\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ee6f7b8fe5ef69c336e54e8d3ab3918a5331c47f
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Apk_Source\\KeyBlocker\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f2b683af30da5f149b60ddf3b06c6f8dcde4cabd\\classes.dex
+base.1=D\:\\Apk_Source\\KeyBlocker\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f2b683af30da5f149b60ddf3b06c6f8dcde4cabd
+file.0=D\:\\Apk_Source\\KeyBlocker\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ee6f7b8fe5ef69c336e54e8d3ab3918a5331c47f\\classes.dex

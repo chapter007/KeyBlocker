@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">按键屏蔽</string>
+	<string name="key_block">按键已屏蔽</string>
+	<string name="key_unblock">按键未屏蔽</string>
     <string name="attention">请打开 设置-无障碍服务-按键屏蔽 来使用。\n控制面板出现错误时，重启该服务可以解决一些问题。</string>
     <string name="introduce">这个应用可以帮助你屏蔽所有的物理按键。\n电源按键将不会被屏蔽！\n你可以通过通知，桌面小部件或磁贴快捷设置(安卓 N)关闭它！</string>
     <string name="tile_set">在安卓N设备上默认需要打开状态栏的磁贴设置添加磁贴来控制按键屏蔽！</string>

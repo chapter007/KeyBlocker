@@ -3,6 +3,7 @@
     package="tool.xfy9326.keyblocker">
 
     <uses-permission android:name="android.permission.EXPAND_STATUS_BAR" />
+    <uses-permission android:name="cyanogenmod.permission.PUBLISH_CUSTOM_TILE" />
 		
     <application
 		android:name=".base.BaseApplication"
@@ -65,6 +66,12 @@
             <meta-data
                 android:name="android.appwidget.provider"
                 android:resource="@xml/appwidget_info" />
+        </receiver>
+        <receiver android:name=".receiver.CmTileReceiver">
+            <intent-filter>
+                <action android:name="tool.xfy9326.keyblocker.action.CMKeyBlocker"/>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+            </intent-filter>
         </receiver>
     </application>
 

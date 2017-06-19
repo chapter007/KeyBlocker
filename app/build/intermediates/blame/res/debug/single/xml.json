@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Apk_Source\\KeyBlocker\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preference_settings.xml",
+        "source": "D:\\Apk_Source\\KeyBlocker\\app\\src\\main\\res\\xml\\preference_settings.xml"
+    },
+    {
+        "merged": "D:\\Apk_Source\\KeyBlocker\\app\\build\\intermediates\\res\\merged\\debug\\xml\\appwidget_info.xml",
+        "source": "D:\\Apk_Source\\KeyBlocker\\app\\src\\main\\res\\xml\\appwidget_info.xml"
+    }
+]
